@@ -7,8 +7,9 @@ This repository explores window functions in PostgreSQL, including 'ROW_NUMBER (
 - Use LEAD () and LAG() to access values from the next or previous rows.
 - Retrieve specific values like the first or nth record in a partition.
 - Combine window functions with Common Table Expressions (CTEs) for complete analyses.
-```sql
+
 ### Queries
+```sql
 ###############################################################
 ###############################################################
 -- Project: SQL Window Functions
